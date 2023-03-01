@@ -1,0 +1,2 @@
+Neste arquivo README.md está uma documentação explicada no Curso de Node JS (Udemy), como realizar a documentação de forma completa para ter uma API RESTFUL. Para usar este estilo basta aplicar este README.md na pagina do github por exemplo que o mesmo irá exibir para quem acessar este repositório.
+
